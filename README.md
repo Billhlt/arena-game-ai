@@ -32,6 +32,7 @@
 
 ## 运行截图
 #### 1.初始界面
+<img width="584" height="590" alt="屏幕截图 2026-10-13 031312" src="https://github.com/user-attachments/assets/99cd8a7f-f4d2-486b-83f1-6a0250b8b1a2" />
 
 #### 2.答题界面
 <img width="600" height="1226" alt="image" src="https://github.com/user-attachments/assets/2391f6a8-734c-404a-ac13-d701eb836237" />
@@ -40,6 +41,7 @@
 <img width="1327" height="1345" alt="截图 2026-10-13 10-33-19" src="https://github.com/user-attachments/assets/83843292-600c-4347-8a82-5365a4280bf1" />
 
 #### 4.个人中心
+<img width="569" height="569" alt="屏幕截图 2026-10-13 030745" src="https://github.com/user-attachments/assets/54b46387-d61e-4a00-9853-4a64263e4463" />
 
 #### 5.个人知识库
 <img width="1993" height="1350" alt="截图 2026-10-13 10-33-32" src="https://github.com/user-attachments/assets/37bbf9b8-f444-439b-996c-bc256070d942" />
